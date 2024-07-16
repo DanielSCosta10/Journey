@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{317044D4-88AA-4326-AAE1-EF615552275E}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{97631F20-FFF2-426B-AF03-4BCBB6D23A85}"
 EndProject
@@ -17,7 +20,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Journey.Infrastructure", "s
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Validators.Test", "tests\Validators.Test\Validators.Test.csproj", "{F6290B8B-3A84-4743-96D1-6BBD3B81FE44}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Journey.Api", "src\Journey.Api\Journey.Api.csproj", "{A06EE223-358C-4E1A-BAD1-7063E7177816}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Journey.Api", "src\Journey.Api\Journey.Api.csproj", "{A06EE223-358C-4E1A-BAD1-7063E7177816}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

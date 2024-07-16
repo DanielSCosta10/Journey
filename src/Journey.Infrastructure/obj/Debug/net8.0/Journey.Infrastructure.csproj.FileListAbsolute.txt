@@ -10,3 +10,5 @@ C:\Users\Daniel Costa\Workspace\Journey\src\Journey.Infrastructure\obj\Debug\net
 C:\Users\Daniel Costa\Workspace\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.pdb
 C:\Users\Daniel Costa\Workspace\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\ref\Journey.Infrastructure.dll
 C:\Users\Daniel Costa\Workspace\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Daniel Costa\Workspace\Journey\src\Journey.Infrastructure\bin\Debug\net8.0\Journey.Infrastructure.runtimeconfig.json
+C:\Users\Daniel Costa\Workspace\Journey\src\Journey.Infrastructure\obj\Debug\net8.0\Journey.Infrastructure.genruntimeconfig.cache

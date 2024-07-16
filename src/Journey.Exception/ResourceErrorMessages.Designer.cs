@@ -79,7 +79,7 @@ namespace Journey.Exception {
         }
         
         /// <summary>
-        ///   Consulta uma cadeia de caracteres localizada semelhante a The date of the trip mujst be later than today..
+        ///   Consulta uma cadeia de caracteres localizada semelhante a The date of the trip must be later than today..
         /// </summary>
         public static string DATE_TRIP_MUST_BE_LATER_THAN_TODAY {
             get {
